@@ -1,0 +1,7 @@
+imt\hackathon\client\impl\WikipediaImpl.class
+imt\hackathon\client\impl\NantesMetropoleImpl.class
+imt\hackathon\client\NantesMetropole.class
+imt\hackathon\controllers\JsonResult.class
+imt\hackathon\controllers\Prototype.class
+imt\hackathon\HackathonApplication.class
+imt\hackathon\client\Wikipedia.class
